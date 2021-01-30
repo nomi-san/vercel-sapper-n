@@ -5,7 +5,7 @@
   "description": "Vercel builder for Sapper with SSR enabled",
   "main": "index.js",
   "bin": {
-    "vercel-sapper": "./bin.js"
+    "vercel-sapper-n": "./bin.js"
   },
   "files": [
     "bin.js",
